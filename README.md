@@ -77,7 +77,7 @@ docker run -p 8080:8080 demo-app
 ## 📸 Captures d'écran
 
 ### Application Spring Boot
-![Application](img.png)
+<img width="1523" height="781" alt="img" src="https://github.com/user-attachments/assets/de73112d-13c4-422a-8e88-8086b5c2059f" />
 
 ---
 
